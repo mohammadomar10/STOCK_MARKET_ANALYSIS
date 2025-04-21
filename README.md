@@ -34,8 +34,8 @@ https://public.tableau.com/app/profile/mohammad.omar.syed/viz/stockmarketdashboa
 
 ## 📁 Files
 
-- `STOCK MARKET DASHBOARD.twbx` – Main Tableau workbook
 - `STOCK MARKET DASHBOARD.png` – Dashboard screenshot preview
+- 
 
 ---
 
