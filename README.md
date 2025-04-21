@@ -49,12 +49,6 @@ https://public.tableau.com/app/profile/mohammad.omar.syed/viz/stockmarketdashboa
 
 ---
 
-## 📉 Price Percent Change 
-
-<img src="DASHBOARD IMAGES/Price % Change .png"/>
-
----
-
 ## 📆 Monthly Average (with MA50 & MA200)
 
 <img src="DASHBOARD IMAGES/monthly avg .png"/>
