@@ -40,21 +40,26 @@ https://public.tableau.com/app/profile/mohammad.omar.syed/viz/stockmarketdashboa
 - 🔌 Live stock market data integration via APIs (e.g., Alpha Vantage, Yahoo Finance)
 - 🧠 Predictive analytics (e.g., forecasting, sentiment analysis)
 - 📊 Sector/industry-wide comparisons
-- 
+   
 ---
 
 ## 🔊 Volume Analysis
+
 <img src="DASHBOARD IMAGES/Volume .png"/>
 
 ---
 
-##📉 Price Percent Change 
+## 📉 Price Percent Change 
+
 <img src="DASHBOARD IMAGES/Price % Change .png"/>
 
 ---
 
 ## 📆 Monthly Average (with MA50 & MA200)
+
 <img src="DASHBOARD IMAGES/monthly avg .png"/>
+
+---
 
 ## 🙌 Acknowledgments
 
