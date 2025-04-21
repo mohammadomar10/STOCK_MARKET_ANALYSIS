@@ -20,6 +20,8 @@ Built using **Tableau**, the dashboard is designed to support investors, analyst
 
 View the live dashboard on Tableau Public: 
 https://public.tableau.com/app/profile/mohammad.omar.syed/viz/stockmarketdashboard_17451638254690/Dashboard1?publish=yes
+
+
 <img src="STOCK MARKET DASHBOARD.png"/>
 
 ## 🔍 Key Features
