@@ -20,6 +20,7 @@ Built using **Tableau**, the dashboard is designed to support investors, analyst
 
 View the live dashboard on Tableau Public: 
 https://public.tableau.com/app/profile/mohammad.omar.syed/viz/stockmarketdashboard_17451638254690/Dashboard1?publish=yes
+<img src="STOCK MARKET DASHBOARD.png"/>
 
 ## 🔍 Key Features
 
@@ -32,20 +33,26 @@ https://public.tableau.com/app/profile/mohammad.omar.syed/viz/stockmarketdashboa
 
 ---
 
-## 📁 Files
-
-- `STOCK MARKET DASHBOARD.png` – Dashboard screenshot preview
-- 
-
----
-
 ## 🚀 Future Enhancements
 
 - 🔌 Live stock market data integration via APIs (e.g., Alpha Vantage, Yahoo Finance)
 - 🧠 Predictive analytics (e.g., forecasting, sentiment analysis)
 - 📊 Sector/industry-wide comparisons
+- 
+---
+
+## 🔊 Volume Analysis
+<img src="DASHBOARD IMAGES/Volume .png"/>
 
 ---
+
+##📉 Price Percent Change 
+<img src="DASHBOARD IMAGES/Price % Change .png"/>
+
+---
+
+## 📆 Monthly Average (with MA50 & MA200)
+<img src="DASHBOARD IMAGES/monthly avg .png"/>
 
 ## 🙌 Acknowledgments
 
